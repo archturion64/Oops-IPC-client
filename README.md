@@ -1,5 +1,3 @@
-# Oops-IPC-client
-
 Oops-IPC-client
 =============
 
